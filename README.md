@@ -1,1 +1,2 @@
 # KhanAcademy-Clone
+#minor edit
